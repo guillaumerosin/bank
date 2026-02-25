@@ -1,0 +1,5 @@
+
+# Data files (too large for git)
+*.fastq
+*.fastq.gz
+FASTQ_Generation_*/
